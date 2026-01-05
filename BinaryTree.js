@@ -6,6 +6,9 @@ root.left.right = new BinaryTreeNode('E');
 root.right.right = new BinaryTreeNode('F');
 
 
+
+// BIG O for all traversals O(n)
+
 // In order Traversal
 // Travers left tree recursively 
 // Visit current Node
